@@ -4,14 +4,14 @@ A collection of Windows commands for system administration, security auditing, a
 
 ## Categories
 
-1. [System Security](01-system-security.md)
-2. [User & Privilege Auditing](02-user-privilege-auditing.md)
-3. [Network Visibility & Connections](03-network-visibility.md)
-4. [Firewall & Remote Access](04-firewall-remote-access.md)
-5. [Defender & Threat Protection](05-defender-threat-protection.md)
-6. [Logs & Incident Triage](06-logs-incident-triage.md)
-7. [Services, Startup & Persistence Checks](07-services-startup-persistence.md)
-8. [Integrity, Hardening & Recovery](08-integrity-hardening-recovery.md)
+1. [System Security](system-security.md)
+2. [User & Privilege Auditing](user-privilege-auditing.md)
+3. [Network Visibility & Connections](network-visibility.md)
+4. [Firewall & Remote Access](firewall-remote-access.md)
+5. [Defender & Threat Protection](defender-threat-protection.md)
+6. [Logs & Incident Triage](logs-incident-triage.md)
+7. [Services, Startup & Persistence Checks](services-startup-persistence.md)
+8. [Integrity, Hardening & Recovery](integrity-hardening-recovery.md)
 
 ## Usage
 
