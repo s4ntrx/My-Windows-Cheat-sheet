@@ -21,3 +21,18 @@ Each file contains commands with their explanations. Commands are provided as-is
 
 Some commands may modify system state, delete data, or alter security settings. Always test in a safe environment before applying to production systems.
 I had to learn the hard way.....
+
+
+---
+
+## References
+- Microsoft Learn Documentation
+- HackTheBox
+- TryHackMe
+
+---
+
+## Author
+- **S4NTRX**
+- Course: BSc Computer Science  CT201
+- Submission Date: 25-09-2026
