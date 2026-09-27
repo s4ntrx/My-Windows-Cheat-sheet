@@ -20,7 +20,7 @@ Each file contains commands with their explanations. Commands are provided as-is
 ## Disclaimer
 
 Some commands may modify system state, delete data, or alter security settings. Always test in a safe environment before applying to production systems.
-I had to learn the hard way.
+I had to learn the hard way. Please be careful.
 
 
 ---
